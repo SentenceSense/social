@@ -1,7 +1,8 @@
-     # Week 2 team social event
+# Week 2 team social event
 
-    Team Name
+Sentence Sense
 
-    Alice Lee, Brian Smith, Carol Williams, Derek Chen
+Pen Han Chang, Tsz Hang Ng, Derick Nguyen, Dylan Shigekawa, Darien Vidaure
 
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+
+For our social event, we grabbed a snack at the UTC after our classes and got to know each other better. Because we were a team that was formed by the professor, this was the first time we were able to introduce ourselves and discuss our backgrounds and interests.  We are all very different people who come from different places, so it will be very interesting to see how our team works together throughout the next 28 weeks.
